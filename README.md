@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/leonardomn12/legion-del-mal-curso-git)
 ![Issues](https://img.shields.io/github/issues/leonardomn12/legion-del-mal-curso-git)
 ![Último commit](https://img.shields.io/github/last-commit/leonardomn12/legion-del-mal-curso-git)
-![Licencia](https://img.shields.io/github/license/leonardomn12/legion-del-mal-curso-git?cacheSeconds=60)
+![Licencia](https://img.shields.io/github/license/leonardomn12/legion-del-mal-curso-git?v=2)
 
 # 🦹‍♂️ La Legión del Mal
 
