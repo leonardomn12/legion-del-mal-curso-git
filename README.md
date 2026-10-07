@@ -9,7 +9,8 @@
 ![Licencia](https://img.shields.io/github/license/leonardomn12/legion-del-mal-curso-git?v=2)
 
 
-# 🦹‍♂️ La Legión del Mal
+# 🦹‍♂️ La Legión del Mal - Desde local
+### Este es un grupo dedicado a aprender y practicar Git y GitHub, con un toque de supervillanos. Aquí no solo se aprende a versionar código, sino también a planear la dominación mundial.
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
